@@ -1,4 +1,4 @@
-module template-go-vercel
+module gomax
 
 go 1.20
 
